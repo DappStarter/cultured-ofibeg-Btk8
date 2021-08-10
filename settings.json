@@ -1,0 +1,9 @@
+{
+    "name": "example",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/collection/core-entity": true
+    }
+}
